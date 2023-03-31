@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+} 
+
+.loginButton {
+    margin-left: 40%;
+}
+
+.forgotButton {
+  margin-top: -20%;
+   margin-left: 45%;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
